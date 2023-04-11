@@ -1,3 +1,3 @@
 # Physics111B
 
-[ATM](Physics 111B ATM Lab Report.pdf.pdf)
+[ATM](Physics 111B ATM Lab Report.pdf)
